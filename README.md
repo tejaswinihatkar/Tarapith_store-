@@ -1,11 +1,35 @@
+# Tarapith Store - E-Commerce Application
 
-  # E-Commerce Application Setup
+This is an E-Commerce Application for Tarapith Store, featuring devotional items and spiritual products blessed with the grace of Maa Tara.
 
-  This is a code bundle for E-Commerce Application Setup. The original project is available at https://www.figma.com/design/latrRpdxyLkNfCVLwwCEJv/E-Commerce-Application-Setup.
+## Features
 
-  ## Running the code
+- Product catalog with categories (Idols, Clothes, Sacred, Ritual)
+- Shopping cart functionality
+- Order tracking and history
+- User profile management
+- Checkout process
+- Grace of Maa page with temple images and historic stories
+- Responsive design with elegant animations
 
-  Run `npm i` to install the dependencies.
+## Running the code
 
-  Run `npm run dev` to start the development server.
-  
+Run `npm i` to install the dependencies.
+
+Run `npm run dev` to start the development server.
+
+## Tech Stack
+
+- React with TypeScript
+- React Router for navigation
+- Tailwind CSS for styling
+- Vite for build tooling
+- Sonner for toast notifications
+
+## Project Structure
+
+- `/src/app/pages` - Page components (Shop, Cart, Checkout, Profile, etc.)
+- `/src/app/components` - Reusable components
+- `/src/context` - React context providers (Cart, Orders)
+- `/src/lib` - Data and utilities
+- `/public/images` - Product and temple images
