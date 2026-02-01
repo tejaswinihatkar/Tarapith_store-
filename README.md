@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tarapith Store - E-Commerce Application
 
 This is an E-Commerce Application for Tarapith Store, featuring devotional items and spiritual products blessed with the grace of Maa Tara.
@@ -33,3 +34,6 @@ Run `npm run dev` to start the development server.
 - `/src/context` - React context providers (Cart, Orders)
 - `/src/lib` - Data and utilities
 - `/public/images` - Product and temple images
+=======
+# Tarapith_store-
+>>>>>>> d150fe384afa2f28fadad9d43824f98b47047611
